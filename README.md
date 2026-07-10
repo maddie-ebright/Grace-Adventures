@@ -4,6 +4,12 @@
 
 🔗 **Live Website:** https://grace-wander-quest.lovable.app
 
+**Note:** This demonstration does **not** contain real Grace Adventures data.
+>
+> To protect the organization's privacy and security, all names, donor records, participant information, financial data, reservation details, and other sensitive information have been replaced with fictional sample data created solely for demonstration purposes.
+>
+> The website accurately represents the functionality, workflow, user interface, and analytics capabilities of the application, but none of the data shown belongs to Grace Adventures or any real individual.
+
 ## Project Overview
 
 This project was developed for Grace Adventures, a nonprofit organization operating multiple campuses and serving thousands of participants each year. The goal was to improve how the organization identifies and manages VIP guests and donors by bringing information together from multiple systems into one centralized platform.
