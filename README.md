@@ -1,4 +1,3 @@
-## Project Overview
 # Grace-Adventures
 <p align="center">
   <img src="dunebuggy.png" alt="Grace Adventures Dune Buggy" width="700">
