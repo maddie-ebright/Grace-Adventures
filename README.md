@@ -1,11 +1,8 @@
-# Grace Adventures VIP Identification & Analytics Platform
-
+## Project Overview
+# Grace-Adventures
 <p align="center">
   <img src="dunebuggy.png" alt="Grace Adventures Dune Buggy" width="700">
 </p>
-
-## Project Overview
-# Grace-Adventures
 
 ## Live Demo
 
