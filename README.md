@@ -1,5 +1,9 @@
 # Grace-Adventures
 
+## Live Demo
+
+🔗 **Live Website:** https://grace-wander-quest.lovable.app
+
 ## Project Overview
 
 This project was developed for Grace Adventures, a nonprofit organization operating multiple campuses and serving thousands of participants each year. The goal was to improve how the organization identifies and manages VIP guests and donors by bringing information together from multiple systems into one centralized platform.
