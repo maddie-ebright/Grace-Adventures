@@ -44,7 +44,6 @@ The platform was designed to:
 - Present data through an intuitive dashboard
 - Reduce manual searching across multiple systems
 - Support faster and more consistent decision-making
-- 
 ---
 
 ## API Integration
